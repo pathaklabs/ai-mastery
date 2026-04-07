@@ -32,3 +32,6 @@ all 6 projects, content, and learning notes.
 ## Output Preferences
 - Code style: snake_case, explicit types, no magic numbers.
 - Tests: pytest for every API endpoint.
+
+## Documentation
+- Root Folder README.md file should have structured reference to other md files from the project
